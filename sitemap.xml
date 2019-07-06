@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://github.com/mgurov/blog.git/about/</loc>
     <lastmod>2019-07-06T23:18:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/0001-integration_tests_v_spring/</loc>
+    <loc>https://github.com/mgurov/blog.git/posts/0001-integration_tests_v_spring/</loc>
     <lastmod>2019-07-06T23:13:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-07-06T23:13:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://github.com/mgurov/blog.git/</loc>
     <lastmod>2019-07-06T23:13:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://github.com/mgurov/blog.git/posts/</loc>
+    <lastmod>2019-07-06T23:13:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://github.com/mgurov/blog.git/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/mgurov/blog.git/tags/</loc>
     <priority>0</priority>
   </url>
   
