@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/mgurov/blog.git/about/</loc>
+    <loc>https://mgurov.github.io/blog/about/</loc>
     <lastmod>2019-07-06T23:18:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mgurov/blog.git/posts/0001-integration_tests_v_spring/</loc>
+    <loc>https://mgurov.github.io/blog/posts/0001-integration_tests_v_spring/</loc>
     <lastmod>2019-07-06T23:13:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mgurov/blog.git/</loc>
-    <lastmod>2019-07-06T23:13:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/mgurov/blog.git/posts/</loc>
+    <loc>https://mgurov.github.io/blog/</loc>
     <lastmod>2019-07-06T23:13:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mgurov/blog.git/categories/</loc>
+    <loc>https://mgurov.github.io/blog/posts/</loc>
+    <lastmod>2019-07-06T23:13:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mgurov/blog.git/tags/</loc>
+    <loc>https://mgurov.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mgurov.github.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
